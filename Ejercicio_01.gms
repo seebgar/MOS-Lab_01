@@ -1,6 +1,6 @@
 
 $onText
- LABORATORIO 1 - EJERCICIO 2                           
+ LABORATORIO 1 - EJERCICIO 1                           
 Minimizar tiempo, una maquina por trabajo
 
 SEBASTIAN GARCIA   -   201630047
