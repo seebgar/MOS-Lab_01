@@ -4,7 +4,7 @@ $onText
 Minimizar costo de transporte, sistema de multiprocesamiento
 
 SEBASTIAN GARCIA   -   201630047
-NICOLAS SOLETO         -    2016      
+NICOLAS SOLETO         -    2016 23026      
 $offText
 
 Sets

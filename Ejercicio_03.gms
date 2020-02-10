@@ -4,7 +4,7 @@ $onText
 Minimizar costo de tuta entre nodos, nodo inaliambricos moviles
 
 SEBASTIAN GARCIA   -   201630047
-NICOLAS SOLETO         -    2016      
+NICOLAS SOLETO         -    201623026       
 $offText
 
 

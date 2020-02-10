@@ -4,7 +4,7 @@ $onText
 Minimizar tiempo, una maquina por trabajo
 
 SEBASTIAN GARCIA   -   201630047
-NICOLAS SOLETO         -    2016      
+NICOLAS SOLETO         -    201623026     
 $offText
 
 Sets
