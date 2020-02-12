@@ -30,12 +30,12 @@ Binary Variable x(i, j);
 
 Equations
 objectiveFunction        'objective function'
-selecionaCuatro           'selecciona solo cuatro maquinas'
+limitejota(j)           'selecciona solo cuatro maquinas'
 limite(i)                           'limitacion de una maquina por trabajo';
 
 objectiveFunction            ..  z =e= sum((i, j), tiempo(i, j) * x(i, j));
 
-selecionaCuatro ..   sum((i, j), x(i, j)) =e= 4;
+limitejota(j) ..   sum( (i), x(i,j) ) =e=1;
 limite(i) .. sum( (j), x(i,j) ) =e=1;
         
 
